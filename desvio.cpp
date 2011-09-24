@@ -83,14 +83,6 @@ int main() {
             }
         }
         
-
-        for(int i=0; i<comp; i++) {
-            for(int j=0; j<comp; j++) {
-               //cout << G2[i][j] << " " ;
-            }
-           // cout << endl;
-        }
-
         memset(gPre, 0xFF, sizeof(gPre));
         memset(gLow, 0xFF, sizeof(gLow));
         gpe = cp2 = cp1 = 0;
