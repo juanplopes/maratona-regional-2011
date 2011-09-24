@@ -1,30 +1,15 @@
 # Running
 
-## Requirements
+You must have "g++" on PATH
 
-Have "g++" on PATH
-
-##On Windows (command prompt)
-
+On Windows:
 ```sh
 test <problem>
-```
-
-e.g.
-
-```sh
 test acido
 ```
 
-##On Linux
-
+On Linux:
 ```sh
 sh test.sh <problem>
-```
-
-e.g.
-
-```sh
 sh test.sh acido
 ```
-
